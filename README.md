@@ -1,3 +1,5 @@
+![CI](https://github.com/jaysrls/GamesLibraryHandout/actions/workflows/ci.yml/badge.svg?branch=main)
+
 # Auftrag: Testing der GamesLibrary-Applikation
 
 ## Ausgangslage
